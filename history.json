@@ -1,0 +1,944 @@
+{
+  "title": "The history of the parachute",
+  "tagline": "From Leonardo's cloth pyramid to a jump from 41 km and a parachute on Mars.",
+  "intro": "People sketched parachutes more than 500 years ago, but the first recorded jump came in 1783. Silk canopies, packs worn on the back and the ripcord followed. Later came steerable wings, a computer that opens the reserve, and jumps from the edge of space. Some early stories cannot be checked, and this history says so.",
+  "eras": [
+    {
+      "id": "sketch",
+      "name": "Sketches and leaps",
+      "from": 1485,
+      "to": 1785,
+      "color": "#c49bff",
+      "summary": "Leonardo and Veranzio draw parachutes. Lenormand jumps with one and gives it its name."
+    },
+    {
+      "id": "balloon",
+      "name": "Balloons and showmen",
+      "from": 1785,
+      "to": 1910,
+      "color": "#ffb547",
+      "summary": "Silk canopies drop from balloons over Paris and London. Women are among the first to jump."
+    },
+    {
+      "id": "aircraft",
+      "name": "From balloon to plane",
+      "from": 1911,
+      "to": 1922,
+      "color": "#ff7a59",
+      "summary": "Knapsack packs, jumps from planes and the ripcord turn the parachute into a lifesaver."
+    },
+    {
+      "id": "edge",
+      "name": "Jumping from the edge of space",
+      "from": 1959,
+      "to": 2014,
+      "color": "#8ef0ff",
+      "summary": "Balloons carry jumpers above 30 km. Drogues and pressure suits let them fall faster than sound."
+    },
+    {
+      "id": "sport",
+      "name": "Wings, computers and Mars",
+      "from": 1963,
+      "to": 2021,
+      "color": "#5ce1a9",
+      "summary": "Ram-air wings let jumpers steer. An automatic device opens the reserve. NASA uses a parachute on Mars."
+    }
+  ],
+  "events": [
+    {
+      "year": 1485,
+      "date": "c. 1485",
+      "era": "sketch",
+      "art": "scroll",
+      "key": true,
+      "title": "Leonardo draws a pyramid parachute",
+      "who": "Leonardo da Vinci",
+      "where": "Italy",
+      "country": "Italy",
+      "text": "A sketch in the Codex Atlanticus, dated to about 1485, shows a person hanging under a cloth pyramid. Museum notes describe it as about 7 m across and tall, with starched cloth.",
+      "why": "It is the earliest well-known design for a parachute.",
+      "box": "canopy",
+      "sources": [
+        15,
+        34,
+        0
+      ]
+    },
+    {
+      "year": 1616,
+      "date": "1615 or 1616 (sources differ)",
+      "era": "sketch",
+      "art": "wind",
+      "title": "Veranzio's Homo Volans",
+      "who": "Fausto Veranzio (Faust Vrančić)",
+      "where": "Venice",
+      "country": "Croatia",
+      "text": "Veranzio's book Machinae Novae shows a square-sailed parachute called Homo Volans, the Flying Man. It drew on Leonardo's ideas. A story says he jumped from a Venice tower in 1617, but no evidence of a test has been found.",
+      "why": "The first printed picture of a parachute, and a reminder that legends need proof.",
+      "box": "canopy",
+      "sources": [
+        14,
+        0
+      ]
+    },
+    {
+      "year": 1783,
+      "date": "26 December 1783 (sources differ on the date)",
+      "era": "sketch",
+      "art": "person",
+      "key": true,
+      "title": "Lenormand jumps from a tower",
+      "who": "Louis-Sébastien Lenormand",
+      "where": "Montpellier, France",
+      "country": "France",
+      "text": "Lenormand jumped from the Montpellier observatory tower with a parachute about 4.3 m across and held by a rigid wooden frame. He had first tried umbrellas from a tree and tested the idea on animals.",
+      "why": "He is considered the first person to make a recorded public parachute descent.",
+      "box": "drag",
+      "sources": [
+        1,
+        0,
+        16
+      ]
+    },
+    {
+      "year": 1785,
+      "date": "1785",
+      "era": "sketch",
+      "art": "word",
+      "title": "The word \"parachute\" is coined",
+      "who": "Louis-Sébastien Lenormand",
+      "where": "France",
+      "country": "France",
+      "text": "Lenormand is credited with the word parachute in 1785. It joins the Latin para, against, with the French chute, fall.",
+      "why": "The name says exactly what the device is for: a device against a fall.",
+      "box": "drag",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": 1785,
+      "date": "1785",
+      "era": "balloon",
+      "art": "wind",
+      "title": "Blanchard shows a parachute from a balloon",
+      "who": "Jean-Pierre Blanchard",
+      "where": "France",
+      "country": "France",
+      "text": "In 1785 Blanchard demonstrated a parachute, first with a dog, as a way to leave a balloon. He later claimed to have used one in 1793 when his balloon burst, but nobody saw it.",
+      "why": "Balloons gave inventors a way to get high enough to test a parachute.",
+      "box": "deploy",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1797,
+      "date": "22 October 1797",
+      "era": "balloon",
+      "art": "wind",
+      "key": true,
+      "title": "Garnerin drops over Paris",
+      "who": "André-Jacques Garnerin",
+      "where": "Parc Monceau, Paris, France",
+      "country": "France",
+      "text": "Garnerin cut his rope at about 1,000 m and descended in a basket under a silk canopy about 7 m wide. The basket swung wildly, but he landed unhurt a short way from the park.",
+      "why": "This was the first descent with a frameless silk parachute.",
+      "box": "drag",
+      "sources": [
+        17,
+        18,
+        16,
+        10
+      ]
+    },
+    {
+      "year": 1799,
+      "date": "12 October 1799",
+      "era": "balloon",
+      "art": "person",
+      "key": true,
+      "title": "Jeanne Geneviève Garnerin is the first woman to parachute",
+      "who": "Jeanne Geneviève Garnerin",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "She first flew in a balloon in November 1798. In October 1799 she is credited as the first woman to make a parachute descent, from a gondola at about 900 m.",
+      "why": "Women were among the earliest to risk the sky.",
+      "box": "altitude",
+      "sources": [
+        18,
+        16,
+        19,
+        10
+      ]
+    },
+    {
+      "year": 1802,
+      "date": "21 September 1802",
+      "era": "balloon",
+      "art": "wind",
+      "title": "First parachute descent in England",
+      "who": "André-Jacques Garnerin",
+      "where": "London, England",
+      "country": "England",
+      "text": "Garnerin rose from the Grosvenor Square area and landed in a field near St Pancras. Accounts call it the first parachute descent made in England.",
+      "why": "It spread the idea of the parachute beyond Paris.",
+      "box": "canopy",
+      "sources": [
+        10,
+        18
+      ]
+    },
+    {
+      "year": 1819,
+      "date": "6 July 1819",
+      "era": "balloon",
+      "art": "word",
+      "title": "Sophie Blanchard, aeronaut",
+      "who": "Sophie Blanchard",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Blanchard, born in 1778, was the first woman to work as a professional balloonist. Her shows included dropping dogs by parachute and launching fireworks. She died in 1819 when fireworks set her balloon alight over Tivoli Gardens.",
+      "why": "She made more than 60 flights and showed the public what flying could be.",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1895,
+      "date": "c. 1894–1895 (sources differ)",
+      "era": "balloon",
+      "art": "person",
+      "title": "A fatal jump and a new start",
+      "who": "Käthe Paulus",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "Käthe Paulus's partner Hermann Lattemann died after his parachute failed to open. She bought new parachutes and went on to tour Europe as Miss Polly.",
+      "why": "Early parachutes were dangerous, and they were improved one jump at a time.",
+      "box": "deploy",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1910,
+      "date": "c. 1910",
+      "era": "balloon",
+      "art": "gear",
+      "title": "A parachute you can carry in a bag",
+      "who": "Käthe Paulus",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "Paulus is credited with an early collapsible parachute that packed into a case worn on the back. Her parachutes mattered to Germany in World War I, and she reportedly made about 7,000.",
+      "why": "A parachute that folds small can be taken up in an aircraft.",
+      "box": "deploy",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1911,
+      "date": "1911",
+      "era": "aircraft",
+      "art": "gear",
+      "title": "The knapsack parachute",
+      "who": "Gleb Kotelnikov",
+      "where": "St Petersburg, Russia",
+      "country": "Russia",
+      "text": "Kotelnikov built the RK-1, a knapsack parachute, in 1911. He applied for a French patent that year. He is credited with the first knapsack design.",
+      "why": "It put the parachute on a pilot's back instead of in a basket.",
+      "box": "deploy",
+      "sources": [
+        37,
+        5,
+        0
+      ]
+    },
+    {
+      "year": 1912,
+      "date": "1912",
+      "era": "aircraft",
+      "art": "gear",
+      "title": "A parachute brakes a car",
+      "who": "Gleb Kotelnikov",
+      "where": "Tsarskoye Selo, Russia",
+      "country": "Russia",
+      "text": "Near Tsarskoye Selo, Kotelnikov sped a car up and opened a parachute fixed to its back seat to show it could slow a moving machine. He is credited with the drogue parachute.",
+      "why": "A small parachute can steady or slow a fast machine.",
+      "box": "drag",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1912,
+      "date": "1 March 1912",
+      "era": "aircraft",
+      "art": "plane",
+      "title": "Berry jumps from a plane",
+      "who": "Albert Berry",
+      "where": "St Louis, USA",
+      "country": "United States",
+      "text": "Berry jumped from a Benoist biplane flown by Tony Jannus at about 460 m. He took off from Kinloch Field and landed at Jefferson Barracks. Grant Morton is also credited with an earlier jump, in late 1911.",
+      "why": "It is often named as the first parachute jump from a powered aircraft.",
+      "box": "deploy",
+      "sources": [
+        4,
+        0
+      ]
+    },
+    {
+      "year": 1913,
+      "date": "21 June 1913",
+      "era": "aircraft",
+      "art": "person",
+      "key": true,
+      "title": "Tiny Broadwick jumps from a plane",
+      "who": "Georgia \"Tiny\" Broadwick",
+      "where": "Los Angeles, USA",
+      "country": "United States",
+      "text": "The Smithsonian says Broadwick was the first woman to parachute from an airplane, on 21 June 1913 over Los Angeles, from a plane flown by Glenn L. Martin. Other accounts note she had jumped from Martin's plane in Chicago in 1912, so the claim is sometimes hedged.",
+      "why": "She showed that pilots, and women, could use parachutes from planes.",
+      "box": "deploy",
+      "sources": [
+        20,
+        13
+      ]
+    },
+    {
+      "year": 1914,
+      "date": "1914",
+      "era": "aircraft",
+      "art": "person",
+      "title": "A planned free fall with a hand pull",
+      "who": "Georgia \"Tiny\" Broadwick",
+      "where": "San Diego, USA",
+      "country": "United States",
+      "text": "During 1914 Army demonstrations her static line snagged on the plane's tail. She cut it, fell free and pulled the line by hand. This may have been the first planned freefall from an aeroplane.",
+      "why": "It points to the ripcord, which let a jumper choose when to open.",
+      "box": "deploy",
+      "sources": [
+        20,
+        13
+      ]
+    },
+    {
+      "year": 1918,
+      "date": "27 June 1918",
+      "era": "aircraft",
+      "art": "plane",
+      "title": "Parachutes for war pilots",
+      "who": "Helmut Steinbrecher",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "German airmen used Otto Heinecke's parachute from 1918. Helmut Steinbrecher bailed out with it on 27 June 1918. Observers in tethered balloons had used parachutes earlier.",
+      "why": "War turned the parachute from a show into a lifesaver.",
+      "box": "deploy",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1919,
+      "date": "28 April 1919",
+      "era": "aircraft",
+      "art": "person",
+      "key": true,
+      "title": "Irvin pulls his own ripcord",
+      "who": "Leslie Irvin",
+      "where": "McCook Field, Ohio, USA",
+      "country": "United States",
+      "text": "Irvin made the first premeditated free-fall jump with a Type A backpack parachute, pulling the ripcord by hand. The plane was at about 460 m and he opened at about 300 m. Floyd Smith flew the plane.",
+      "why": "A jumper could now fall free and open the parachute on purpose.",
+      "box": "deploy",
+      "sources": [
+        21,
+        22,
+        7
+      ]
+    },
+    {
+      "year": 1920,
+      "date": "24 August 1920",
+      "era": "aircraft",
+      "art": "person",
+      "title": "The first life saved by an Irvin parachute",
+      "who": "William O'Connor",
+      "where": "United States",
+      "country": "United States",
+      "text": "An early company brochure credits William O'Connor as the first person saved by an Irvin parachute, on 24 August 1920. The Caterpillar Club did not recognise it. Its first recognised save was Harold R. Harris, on 20 October 1922.",
+      "why": "Parachutes were now proven to save pilots.",
+      "box": "deploy",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1922,
+      "date": "c. 1922",
+      "era": "aircraft",
+      "art": "gear",
+      "title": "The Caterpillar Club",
+      "who": "Irving Air Chute Company",
+      "where": "United States",
+      "country": "United States",
+      "text": "Irvin started the Caterpillar Club in 1922, giving a gold pin to anyone whose life one of his parachutes saved. By the end of World War II, more than 34,000 people had one.",
+      "why": "The pins counted how many lives the parachute had saved.",
+      "box": "deploy",
+      "sources": [
+        6,
+        22
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "21 May 1959",
+      "era": "edge",
+      "art": "person",
+      "title": "Valentina Tereshkova's first jump",
+      "who": "Valentina Tereshkova",
+      "where": "Yaroslavl, Russia",
+      "country": "Soviet Union",
+      "text": "Tereshkova made her first parachute jump at 22, at the Yaroslavl aeroclub. In 1963 she flew Vostok 6, ejected at about 6 km, and landed under a parachute in strong gusts.",
+      "why": "Her skydiving training helped make her the first woman in space.",
+      "box": "altitude",
+      "sources": [
+        36,
+        8
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "16 November 1959",
+      "era": "edge",
+      "art": "earth",
+      "title": "A parachute opens by itself",
+      "who": "Joseph Kittinger",
+      "where": "New Mexico, USA",
+      "country": "United States",
+      "text": "On Excelsior I, Kittinger jumped from about 23 km (76,000 ft). His stabilising parachute wrapped round his neck and he blacked out. His emergency parachute opened automatically at about 3,000 m.",
+      "why": "It is an early story of a machine opening a parachute for an unconscious jumper.",
+      "box": "deploy",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "16 August 1960",
+      "era": "edge",
+      "art": "rocket",
+      "key": true,
+      "title": "Kittinger falls from 31 km",
+      "who": "Joseph Kittinger",
+      "where": "New Mexico, USA",
+      "country": "United States",
+      "text": "On Excelsior III Kittinger stepped out at 102,800 ft, about 31.3 km. A small drogue parachute steadied him. He fell for over four minutes at up to about 988 km/h (614 mph), and his main parachute opened at about 5.3 km.",
+      "why": "He showed a person could survive a fall from the edge of space.",
+      "box": "altitude",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1963,
+      "date": "1963",
+      "era": "sport",
+      "art": "wing",
+      "key": true,
+      "title": "Jalbert's ram-air wing",
+      "who": "Domina Jalbert",
+      "where": "United States",
+      "country": "United States",
+      "text": "Domina Jalbert filed a US patent in January 1963 for a wing made of air-filled cells, open at the front and closed at the back. It was later called the parafoil. A 1964 patent covered a multi-cell wing-type device.",
+      "why": "A parachute you could steer and glide, instead of just fall with.",
+      "box": "ramair",
+      "sources": [
+        32,
+        9
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "mid-1960s to late 1970s",
+      "era": "sport",
+      "art": "wing",
+      "title": "The Para-Commander",
+      "who": "Parachute makers",
+      "where": "United States",
+      "country": "United States",
+      "text": "The Para-Commander was the first widely used pull-down apex canopy. This round design was the most popular sport type from about the mid-1960s to the late 1970s.",
+      "why": "Round canopies became steerable enough for sport jumping.",
+      "box": "canopy",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1991,
+      "date": "1991",
+      "era": "sport",
+      "art": "chip",
+      "key": true,
+      "title": "CYPRES, a computer that saves your life",
+      "who": "Helmut Cloth",
+      "where": "Bad Wünnenberg, Germany",
+      "country": "Germany",
+      "text": "Helmut Cloth's company Airtec was founded in 1990, and the first CYPRES units reached skydivers in 1991. It is an automatic activation device that opens the reserve if the jumper is too low and falling fast.",
+      "why": "If a jumper cannot pull the handle, the device opens the reserve.",
+      "box": "deploy",
+      "sources": [
+        33,
+        12
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "26 June 2000",
+      "era": "sport",
+      "art": "scroll",
+      "title": "A Leonardo parachute is tested",
+      "who": "Adrian Nicholas",
+      "where": "Mpumalanga, South Africa",
+      "country": "United Kingdom",
+      "text": "Nicholas jumped from a balloon at about 3,000 m with a wood-and-canvas pyramid parachute built to Leonardo's design. It could not be steered. Reports differ on where he cut away to a normal parachute; one says about 900 m.",
+      "why": "It showed that a design from about 1485 could really fly.",
+      "box": "canopy",
+      "sources": [
+        34,
+        35,
+        0
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "14 October 2012",
+      "era": "edge",
+      "art": "earth",
+      "key": true,
+      "title": "Baumgartner breaks the sound barrier",
+      "who": "Felix Baumgartner",
+      "where": "Roswell, New Mexico, USA",
+      "country": "Austria",
+      "text": "On 14 October 2012 Baumgartner jumped from a balloon capsule at about 39 km. Guinness lists his top speed at about 1,357 km/h, Mach 1.25. The Smithsonian's display gives 1,342 km/h.",
+      "why": "He is widely credited as the first person to pass the speed of sound in free fall.",
+      "box": "altitude",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "24 October 2014",
+      "era": "edge",
+      "art": "rocket",
+      "title": "Eustace jumps from 41 km",
+      "who": "Alan Eustace",
+      "where": "Roswell, New Mexico, USA",
+      "country": "United States",
+      "text": "Eustace hung under a balloon in a pressure suit, with no capsule. He released at 41,422 m, a record. He fell about 37.6 km with a drogue parachute and reached about 1,320 km/h.",
+      "why": "He broke Baumgartner's record two years later.",
+      "box": "altitude",
+      "sources": [
+        28,
+        27,
+        29
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "18 February 2021",
+      "era": "sport",
+      "art": "earth",
+      "key": true,
+      "title": "A parachute on Mars",
+      "who": "NASA/JPL",
+      "where": "Mars",
+      "country": "United States",
+      "text": "Perseverance landed on 18 February 2021. Its parachute is 21.5 m wide. It opened at about 11 km up at about 1,512 km/h. By the time the backshell separated, about 1.9 km up, the speed was below 320 km/h. Its orange and white stripes hid a binary message.",
+      "why": "Thin Martian air means a parachute must be very big and very strong.",
+      "box": "altitude",
+      "sources": [
+        30,
+        11,
+        31
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Parachute design sketch (surviving)",
+      "value": "c. 1485",
+      "who": "Leonardo da Vinci, Italy"
+    },
+    {
+      "label": "First recorded public parachute descent",
+      "value": "1783",
+      "who": "Louis-Sébastien Lenormand, France"
+    },
+    {
+      "label": "First frameless silk parachute descent",
+      "value": "1797",
+      "who": "André-Jacques Garnerin, France"
+    },
+    {
+      "label": "First woman to parachute (credited)",
+      "value": "1799",
+      "who": "Jeanne Geneviève Garnerin, France"
+    },
+    {
+      "label": "First jump from a powered aircraft (often credited)",
+      "value": "1912",
+      "who": "Albert Berry, USA"
+    },
+    {
+      "label": "First planned freefall from a plane (possibly)",
+      "value": "1914",
+      "who": "Georgia \"Tiny\" Broadwick, USA"
+    },
+    {
+      "label": "First free-fall jump with a modern pack",
+      "value": "1919",
+      "who": "Leslie Irvin, USA"
+    },
+    {
+      "label": "First person past the speed of sound in free fall (widely credited)",
+      "value": "2012",
+      "who": "Felix Baumgartner, Austria"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jeanne Geneviève Garnerin",
+      "role": "Balloonist and parachutist",
+      "from": "France",
+      "note": "Credited as the first woman to make a parachute descent, in 1799.",
+      "life": "1775 – 1847"
+    },
+    {
+      "name": "Sophie Blanchard",
+      "life": "1778 – 1819",
+      "role": "Professional balloonist",
+      "from": "France",
+      "note": "She dropped dogs and fireworks on parachutes and flew over 60 times."
+    },
+    {
+      "name": "Käthe Paulus",
+      "life": "1868 – 1935",
+      "role": "Parachutist and maker",
+      "from": "Germany",
+      "note": "She is credited with an early parachute that packed into a back case."
+    },
+    {
+      "name": "Georgia \"Tiny\" Broadwick",
+      "life": "1893 – 1978",
+      "role": "Parachutist",
+      "from": "United States",
+      "note": "She is credited with early jumps from planes and a hand-pulled freefall."
+    },
+    {
+      "name": "Gleb Kotelnikov",
+      "life": "1872 – 1944",
+      "role": "Inventor",
+      "from": "Russia",
+      "note": "He built the RK-1 knapsack parachute and the drogue parachute."
+    },
+    {
+      "name": "Valentina Tereshkova",
+      "life": "born 1937",
+      "role": "Skydiver and cosmonaut",
+      "from": "Soviet Union",
+      "note": "A skydiver from age 22, she landed by parachute after Vostok 6."
+    },
+    {
+      "name": "Domina Jalbert",
+      "life": "1904 – 1991",
+      "role": "Inventor",
+      "from": "Canada / United States",
+      "note": "Patented the ram-air wing in 1963."
+    },
+    {
+      "name": "Joseph Kittinger",
+      "role": "Air force officer and balloonist",
+      "from": "United States",
+      "note": "He jumped from 31.3 km in 1960.",
+      "life": "1928 – 2022"
+    },
+    {
+      "name": "Helmut Cloth",
+      "role": "Inventor",
+      "from": "Germany",
+      "note": "Creator of the CYPRES automatic activation device.",
+      "life": ""
+    }
+  ],
+  "series": [
+    {
+      "id": "altitude",
+      "title": "Highest parachute jumps",
+      "unit": "km",
+      "log": false,
+      "after": "edge",
+      "caption": "Parachutists went from about 1 km under a balloon to over 41 km in 217 years.",
+      "points": [
+        {
+          "year": 1797,
+          "value": 1,
+          "label": "André Garnerin: about 1 km"
+        },
+        {
+          "year": 1799,
+          "value": 0.9,
+          "label": "Jeanne Garnerin: about 900 m"
+        },
+        {
+          "year": 1959,
+          "value": 23.2,
+          "label": "Kittinger, Excelsior I: about 23.2 km"
+        },
+        {
+          "year": 1960,
+          "value": 31.3,
+          "label": "Kittinger, Excelsior III: about 31.3 km"
+        },
+        {
+          "year": 2012,
+          "value": 39,
+          "label": "Baumgartner: about 39 km"
+        },
+        {
+          "year": 2014,
+          "value": 41.42,
+          "label": "Eustace: about 41.4 km"
+        }
+      ]
+    },
+    {
+      "id": "speed",
+      "title": "Fastest free fall",
+      "unit": "km/h",
+      "log": false,
+      "after": "sport",
+      "caption": "High up, thin air lets a jumper fall at the speed of a jet.",
+      "points": [
+        {
+          "year": 1960,
+          "value": 988,
+          "label": "Kittinger: about 988 km/h"
+        },
+        {
+          "year": 2012,
+          "value": 1357,
+          "label": "Baumgartner: about 1,357 km/h, Mach 1.25"
+        },
+        {
+          "year": 2014,
+          "value": 1320,
+          "label": "Eustace: about 1,320 km/h (with drogue)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Tiny Broadwick gave her handmade parachute to the Smithsonian in 1964.",
+    "Baumgartner reached about 380 m/s, but only because the air was so thin at height.",
+    "Perseverance's parachute is 21.5 m wide. Its red and white pattern hid a binary message: Dare Mighty Things.",
+    "The word parachute joins para, against, and chute, fall.",
+    "By the end of World War II, more than 34,000 people had earned a Caterpillar Club pin."
+  ],
+  "sources": [
+    {
+      "title": "Parachute",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parachute"
+    },
+    {
+      "title": "Louis-Sébastien Lenormand",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Louis-S%C3%A9bastien_Lenormand"
+    },
+    {
+      "title": "Sophie Blanchard",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sophie_Blanchard"
+    },
+    {
+      "title": "Käthe Paulus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/K%C3%A4the_Paulus"
+    },
+    {
+      "title": "Albert Berry (parachutist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Albert_Berry_(parachutist)"
+    },
+    {
+      "title": "Gleb Kotelnikov",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gleb_Kotelnikov"
+    },
+    {
+      "title": "Caterpillar Club",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Caterpillar_Club"
+    },
+    {
+      "title": "Leslie L. Irvin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leslie_L._Irvin"
+    },
+    {
+      "title": "Valentina Tereshkova",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Valentina_Tereshkova"
+    },
+    {
+      "title": "Domina Jalbert",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Domina_Jalbert"
+    },
+    {
+      "title": "André-Jacques Garnerin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9-Jacques_Garnerin"
+    },
+    {
+      "title": "Mars 2020",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mars_2020"
+    },
+    {
+      "title": "Automatic activation device",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Automatic_activation_device"
+    },
+    {
+      "title": "Tiny Broadwick",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tiny_Broadwick"
+    },
+    {
+      "title": "AIAA C #8; Homo Volans - \"The Flying Man\"",
+      "publisher": "National Air and Space Museum, Smithsonian",
+      "url": "https://airandspace.si.edu/collection-archive-item/aiaa-c-8-homo-volans-flying-man/sova-nasm-xxxx-0137-ref3"
+    },
+    {
+      "title": "Leonardo's Dream: the Flight",
+      "publisher": "Google Arts & Culture (Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci)",
+      "url": "https://artsandculture.google.com/story/leonardo-s-dream-the-flight-museo-nazionale-della-scienza-e-della-tecnologia-leonardo-da-vinci/QwUxhjxo7UcuLg?hl=en"
+    },
+    {
+      "title": "First parachute jump is made over Paris",
+      "publisher": "HISTORY",
+      "url": "https://www.history.com/this-day-in-history/october-22/the-first-parachutist"
+    },
+    {
+      "title": "Medal, Andre Jacques Garnerin",
+      "publisher": "National Air and Space Museum, Smithsonian",
+      "url": "https://airandspace.si.edu/collection-media/NASM-A19740655000cp01"
+    },
+    {
+      "title": "André-Jacques Garnerin (1769-1823)",
+      "publisher": "SP's Aviation (SP Guide Publications)",
+      "url": "https://www.sps-aviation.com/story/?id=1574"
+    },
+    {
+      "title": "Catherine Curzon: The Parachute Descent of Jeanne Garnerin",
+      "publisher": "Madame Gilflurt's Guide to Georgian Life (blog)",
+      "url": "https://www.madamegilflurt.com/2013/10/on-this-day-parachute-descent-of-jeanne.html"
+    },
+    {
+      "title": "Georgia \"Tiny\" Broadwick's Parachute",
+      "publisher": "National Air and Space Museum, Smithsonian",
+      "url": "https://airandspace.si.edu/stories/editorial/georgia-tiny-broadwicks-parachute"
+    },
+    {
+      "title": "Parachute, Personnel Back Pack, Type A, United States Army Air Service",
+      "publisher": "National Air and Space Museum, Smithsonian",
+      "url": "https://airandspace.si.edu/collection-objects/parachute-personnel-back-pack-type-united-states-army-air-service/nasm_A19310004000"
+    },
+    {
+      "title": "Leslie Irvin",
+      "publisher": "International Skydiving Museum & Hall of Fame",
+      "url": "https://skydivingmuseum.org/member/leslie-irvin/"
+    },
+    {
+      "title": "Joseph W. Kittinger",
+      "publisher": "New Mexico Museum of Space History",
+      "url": "https://nmspacemuseum.org/inductee/joseph-w-nkittinger/"
+    },
+    {
+      "title": "Colonel Joe Kittinger",
+      "publisher": "International Skydiving Museum & Hall of Fame",
+      "url": "https://skydivingmuseum.org/member/colonel-joe-kittinger/"
+    },
+    {
+      "title": "Red Bull Stratos: Mission to the Edge of Space",
+      "publisher": "National Air and Space Museum, Smithsonian",
+      "url": "https://airandspace.si.edu/exhibitions/red-bull-stratos-mission-edge-space"
+    },
+    {
+      "title": "Fastest speed in freefall",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/107936-fastest-speed-in-freefall"
+    },
+    {
+      "title": "Highest freefall parachute jump",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/107938-highest-freefall-parachute-jump"
+    },
+    {
+      "title": "Alan Eustace",
+      "publisher": "National Air and Space Museum, Smithsonian",
+      "url": "https://airandspace.si.edu/multimedia-gallery/11567hjpg"
+    },
+    {
+      "title": "10 Years Later, Record High Altitude Parachute Jump Still Stands",
+      "publisher": "Aero-News Network",
+      "url": "https://www.aero-news.net/index.cfm?do=main.textpost&id=E0881681-B476-4786-B479-27ECA7320AAF"
+    },
+    {
+      "title": "Mars 2020 Perseverance Landing Press Kit | Mission Overview",
+      "publisher": "NASA JPL",
+      "url": "https://www.jpl.nasa.gov/news/press_kits/mars_2020/landing/mission/"
+    },
+    {
+      "title": "Perseverance's Parachute Code",
+      "publisher": "The Planetary Society",
+      "url": "https://www.planetary.org/space-images/perseverances-parachute-code"
+    },
+    {
+      "title": "Domina C. Jalbert",
+      "publisher": "International Skydiving Museum & Hall of Fame",
+      "url": "https://skydivingmuseum.org/member/domina-c-jalbert/"
+    },
+    {
+      "title": "Helmut Cloth",
+      "publisher": "International Skydiving Museum & Hall of Fame",
+      "url": "https://skydivingmuseum.org/member/helmut-cloth/"
+    },
+    {
+      "title": "MAN PARACHUTES USING DA VINCI DESIGN",
+      "publisher": "Mail & Guardian",
+      "url": "https://mg.co.za/news/south-africa/2000-06-30-man-parachutes-using-da-vinci-design/"
+    },
+    {
+      "title": "Proof: Da Vinci chute works",
+      "publisher": "Mail & Guardian",
+      "url": "https://mg.co.za/news/south-africa/2000-07-06-proof-da-vinci-chute-works/"
+    },
+    {
+      "title": "First woman in space: Valentina",
+      "publisher": "European Space Agency",
+      "url": "https://www.esa.int/About_Us/50_years_of_ESA/50_years_of_humans_in_space/First_woman_in_space_Valentina"
+    },
+    {
+      "title": "Golden Names of Russia: Gleb Kotelnikov",
+      "publisher": "Forpost Severo-Zapad",
+      "url": "https://forpost-sz.ru/en/a/2021-07-31/golden-names-russia-gleb-kotelnikov"
+    }
+  ]
+}

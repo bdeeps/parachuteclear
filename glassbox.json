@@ -1,0 +1,107 @@
+{
+  "slug": "parachuteclear",
+  "box": 231,
+  "date": "2026-11-28",
+  "title": "ParachuteClear",
+  "question": "How does a parachute work?",
+  "hook": "A skydiver falls at 200 km/h. Under a canopy, the same person lands at the speed of a jog. Nothing about gravity changed: only the air's grip did.",
+  "thumbText": "HOW PARACHUTES WORK",
+  "field": "physics",
+  "minutes": 6,
+  "tags": [
+    "parachute",
+    "skydiving",
+    "drag",
+    "terminal velocity",
+    "physics",
+    "aerodynamics"
+  ],
+  "explainer": [
+    {
+      "title": "Gravity against drag",
+      "text": "A falling body speeds up until drag, which grows with the square of speed, equals its weight. That steady speed is terminal velocity: about 55 m/s (200 km/h) belly to earth, faster head down."
+    },
+    {
+      "title": "Drag area is the trick",
+      "text": "A parachute does not cancel gravity. It adds a huge drag area, so drag balances weight at only 5 to 7 m/s. Bigger canopy, slower fall; heavier load, faster fall."
+    },
+    {
+      "title": "Round canopies and the vent",
+      "text": "A round canopy is a blunt dome that spills air from its rim and can rock. A small hole at the top lets air escape steadily, which calms the swing."
+    },
+    {
+      "title": "The canopy that flies",
+      "text": "A square ram-air canopy is an inflatable wing. Air rams into the open cells and puffs up an aerofoil, which glides about 3 m forward for each metre it sinks. Toggles turn it, and a flare softens the landing."
+    },
+    {
+      "title": "One stage hands to the next",
+      "text": "A pilot chute drags out the bag, the lines stretch, the canopy fills and a slider slows the opening. If the main fails there is a reserve, and an automatic device fires it for a jumper who cannot act."
+    },
+    {
+      "title": "Thin air up high",
+      "text": "Air density falls with height, so the same jumper falls much faster up high. Baumgartner passed the speed of sound from about 39 km in 2012, then slowed as the air thickened."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Terminal velocity",
+      "def": "The steady speed at which drag equals weight, so a falling body stops speeding up."
+    },
+    {
+      "term": "Drag area",
+      "def": "The drag coefficient times the frontal area: how much air a shape grabs."
+    },
+    {
+      "term": "Air density",
+      "def": "The mass of air per cubic metre. It is about 1.2 kg/m³ at sea level and falls with height."
+    },
+    {
+      "term": "Canopy vent",
+      "def": "A hole at the top of a round canopy that lets air out steadily and reduces rocking."
+    },
+    {
+      "term": "Ram air",
+      "def": "Air forced into the open front of a canopy's cells by its forward motion, which keeps it inflated."
+    },
+    {
+      "term": "Glide ratio",
+      "def": "Distance moved forward for each unit of height lost. 3:1 means three metres on for one down."
+    },
+    {
+      "term": "Flare",
+      "def": "A smooth, strong pull of both toggles just before landing that trades speed for lift."
+    },
+    {
+      "term": "Slider",
+      "def": "A small rectangle of fabric on the lines that slides down slowly and slows the canopy's opening."
+    },
+    {
+      "term": "Reserve",
+      "def": "A separately packed second canopy used if the main fails."
+    },
+    {
+      "term": "AAD",
+      "def": "An automatic activation device that fires the reserve if a jumper is too low and still falling fast."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "parachuteclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ],
+  "thumbScene": 4
+}
